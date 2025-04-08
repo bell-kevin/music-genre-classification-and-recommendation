@@ -1,4 +1,6 @@
-﻿# music-genre-classification-and-recommendation
+<a name="readme-top"></a>
+ 
+ # music-genre-classification-and-recommendation
 This project builds an end-to-end system for automatically classifying music by genre and recommending similar songs. Our approach uses both traditional machine learning models and deep learning architectures to tackle the problem.
 
 ## Project Overview
@@ -22,3 +24,4 @@ This project builds an end-to-end system for automatically classifying music by 
      - Splitting the dataset into training and validation sets.
      - Reporting accuracy, loss, and confusion matrices.
 
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
